@@ -4,3 +4,17 @@
   font-weight: normal;
   font-style: normal;
 }
+
+@font-face {
+    font-family: 'SuisseIntl_Medium';
+    src: url('https://filoldenburg.github.io/suissefont/fonts/Suisse Int_l Medium.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'SuisseIntl_Semibold';
+    src: url('https://filoldenburg.github.io/suissefont/fonts/SuisseIntl-SemiBold.woff') format('woff2');
+    font-weight: 700;
+    font-style: normal;
+}
